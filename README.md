@@ -6,7 +6,7 @@
 [![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/github_64h.png)](https://github.com/MayaqqDev/boomRun/)
 ## `Information`
 
-Mobs will now run away from creepers like they did back in 1.8.1!
+Mobs will now run away from exploding creepers like they did back in 1.8.1!
 
 ## `Community`
 
