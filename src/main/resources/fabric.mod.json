@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "boomrun",
+  "version": "${version}",
+  "name": "BoomRun",
+  "description": "Makes mobs run away from creepers like it was in 1.8.1 (now without performance issues!)",
+  "authors": [
+    "Mayaqq"
+  ],
+  "contact": {
+    "repo": "https://github.com/MayaqqDev/boomRun"
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/boomrun/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.mayaqq.boomrun.client.BoomRunClient"
+    ],
+    "main": [
+      "dev.mayaqq.boomrun.BoomRun"
+    ]
+  },
+  "mixins": [
+    "boomrun.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
