@@ -1,6 +1,6 @@
 package dev.mayaqq.boomrun.goals;
 
-import dev.mayaqq.boomrun.EntityExtensions.CreeperEntityExtension;
+import dev.mayaqq.boomrun.entityExtensions.CreeperEntityExtension;
 import net.minecraft.entity.ai.goal.FleeEntityGoal;
 import net.minecraft.entity.mob.CreeperEntity;
 import net.minecraft.entity.mob.PathAwareEntity;

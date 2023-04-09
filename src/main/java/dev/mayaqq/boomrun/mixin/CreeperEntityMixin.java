@@ -1,6 +1,6 @@
 package dev.mayaqq.boomrun.mixin;
 
-import dev.mayaqq.boomrun.EntityExtensions.CreeperEntityExtension;
+import dev.mayaqq.boomrun.entityExtensions.CreeperEntityExtension;
 import net.minecraft.entity.mob.CreeperEntity;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
